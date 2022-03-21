@@ -7,22 +7,22 @@
 ![img](Screenshot/ss1.png)
 Membuat dokumen html nya
 
-![img](screenshot/ss2.png)
-![img](screenshot/ss3.png)
+![img](Screenshot/ss2.png)
+![img](Screenshot/ss3.png)
 Menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 
-![img](screenshot/ss4.png)
-![img](screenshot/ss5.png)
+![img](Screenshot/ss4.png)
+![img](Screenshot/ss5.png)
 Menambahkan deklarasi inline CSS pada tag `<p>`
 
-![img](screenshot/ss6.png)
+![img](Screenshot/ss6.png)
 membuat file baru untuk deklarasi CSS
-![img](screenshot/ss7.png)
+![img](Screenshot/ss7.png)
 hasilnya
 
-![img](screenshot/ss8.png)
+![img](Screenshot/ss8.png)
 menambahkan CSS Selector menggunakan ID dan Class Selector.
-![img](screenshot/ss9.png)
+![img](Screenshot/ss9.png)
 Alhamdulillah setelah di refresh tampilannya berubah seperti ini
 
 
